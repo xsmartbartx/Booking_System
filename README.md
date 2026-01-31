@@ -1,7 +1,7 @@
-# System Rezerwacji - App Flow and Features
+# Boooking System - App Flow and Features
 
 ## Overview
-The System Rezerwacji app is designed to help users book their trips by showcasing a diverse collection of Airbnb listings. The app emphasizes visual appeal and user-friendliness, presenting high-quality images of various accommodations to attract potential guests.
+The Booking System app is designed to help users book their trips by showcasing a diverse collection of Airbnb listings. The app emphasizes visual appeal and user-friendliness, presenting high-quality images of various accommodations to attract potential guests.
 
 ## Tech Stack
 Frontend: React Native with Typescript, Expo and Expo router
